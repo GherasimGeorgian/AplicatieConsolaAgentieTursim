@@ -1,0 +1,7 @@
+C:\Users\Geo\source\repos\AplicatieConsolaAgentieTursim\AplicatieConsolaAgentieTursim\bin\Debug\AplicatieConsolaAgentieTursim.exe.config
+C:\Users\Geo\source\repos\AplicatieConsolaAgentieTursim\AplicatieConsolaAgentieTursim\bin\Debug\AplicatieConsolaAgentieTursim.exe
+C:\Users\Geo\source\repos\AplicatieConsolaAgentieTursim\AplicatieConsolaAgentieTursim\bin\Debug\AplicatieConsolaAgentieTursim.pdb
+C:\Users\Geo\source\repos\AplicatieConsolaAgentieTursim\AplicatieConsolaAgentieTursim\obj\Debug\AplicatieConsolaAgentieTursim.csprojAssemblyReference.cache
+C:\Users\Geo\source\repos\AplicatieConsolaAgentieTursim\AplicatieConsolaAgentieTursim\obj\Debug\AplicatieConsolaAgentieTursim.csproj.CoreCompileInputs.cache
+C:\Users\Geo\source\repos\AplicatieConsolaAgentieTursim\AplicatieConsolaAgentieTursim\obj\Debug\AplicatieConsolaAgentieTursim.exe
+C:\Users\Geo\source\repos\AplicatieConsolaAgentieTursim\AplicatieConsolaAgentieTursim\obj\Debug\AplicatieConsolaAgentieTursim.pdb
